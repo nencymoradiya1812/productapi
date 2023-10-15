@@ -4,49 +4,74 @@
       "id": "1",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-7.jpg",
       "title": "AWESOME MIX",
-      "price": "2,490"
+      "price": "2,490",
+      "description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o7",
+      "Category":"Clothimg",
+      "tag":"Dress"
     },
     {
       "id": "2",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-1-1.jpg",
       "title": "BLUE EASINESS",
-      "price": "3,100"
+      "price": "3,100","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o1",
+      "Category":"Bridal",
+      "tag":"Wedding"
     },
     {
       "id": "3",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-2.jpg",
       "title": "CARNATION GOWN",
-      "price": "2,250"
+      "price": "2,250","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o2",
+      "Category":"Lifestyle",
+      "tag":"Fashion"
     },
     {
       "id": "4",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-3.jpg",
       "title": "DAYDREAM DRESS",
-      "price": "1,900"
+      "price": "1,900","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o3",
+      "Category":"Bridal",
+      "tag":"Fashion"
     },
     {
       "id": "5",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-10.jpg",
       "title": "ETERNITY DRESS",
-      "price": "2,100"
+      "price": "2,100","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"10",
+      "Category":"Lifestyle",
+      "tag":"Design"
     },
     {
       "id": "6",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-4.jpg",
       "title": "LACED DRESS",
-      "price": "2,590"
+      "price": "2,590","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o4",
+      "Category":"Accessories",
+      "tag":"Dress"
     },
     {
       "id": "7",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-5.jpg",
       "title": "MODERN BRIDE",
-      "price": "2,800"
+      "price": "2,800","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o5",
+      "Category":"Limited Edition",
+      "tag":"Diy"
     },
     {
       "id": "8",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-6.jpg",
       "title": "VOGUE GOWN",
-      "price": "2,750"
+      "price": "2,750","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"o6",
+      "Category":"Lifestyle",
+      "tag":" Design"
     }
   ],
   "product1": [
@@ -54,25 +79,38 @@
       "id": "1",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-13.jpg",
       "title": "ABSOLUTE PEONY",
-      "price": "5,85"
+      "price": "5,85","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"13",
+      "Category":"Accessories",
+      "tag":"Wedding"
     },
     {
       "id": "2",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2017/01/shop-product-16.jpg",
       "title": "ALLIUM BOUQUET",
-      "price":"$395"
+      "price":"$395",
+      "description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"16",
+      "Category":"Limited Edition",
+      "tag":"Diy"
     },
     {
       "id": "3",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2017/01/shop-product-15.jpg",
       "title": "ATTRACTIVE BAND",
-      "price": "2,95"
+      "price": "2,95","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"15",
+      "Category":"Accessories",
+      "tag":"Diy"
     },
     {
       "id": "4",
       "image": "https://fleur.qodeinteractive.com/wp-content/uploads/2016/06/shop-product-14.jpg",
       "title": "AUTUMN BOUQUET",
-      "price": "375"
+      "price": "375","description":"Lorem ipsum dolor sit amet, consectetuer. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, loreendum auctor nisi elit consequat ipsum, nec sagittis sem nibh",
+      "SKU":"14",
+      "Category":"Bridesmaids",
+      "tag":"Wedding"
     }
   ]
 }
